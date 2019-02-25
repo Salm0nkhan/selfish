@@ -14,7 +14,7 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 
 
 # [ Installation ]
-```
+
 $ pkg update upgrade
 $ pkg install git python2
 $ git clone https://github.com/salm0nkhan/selfish
@@ -22,13 +22,13 @@ $ cd selfish
 ```
 
 # [ Setup ]
-```
+
 $ pip2 install -r requirements.txt
-```
+
 # [ Running ]
-```
+
 $ python2 selfish.py
-```
+
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
